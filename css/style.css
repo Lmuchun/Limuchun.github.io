@@ -19,9 +19,9 @@
 html,
 body {
 	height: 100%;
-	background-color: #231f20;
+	background-color: #cf2e56;
 	font-family: 'Teko', sans-serif;
-	color: #ffffff;
+	color: #5521b5;
 }
 
 /* Menu */
@@ -89,7 +89,7 @@ body {
 /* Profile */
 
 #profile {
-	width: 50%;
+	width: 30%;
 	height: 100%;
 	float: left;
 	text-align: center;
