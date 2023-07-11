@@ -19,7 +19,7 @@
 html,
 body {
 	height: 100%;
-	background-color: #eff6eb;
+	background-color: #f6f4eb;
 	font-family: 'Teko', sans-serif;
 	color: #000000;
 }
@@ -42,7 +42,7 @@ body {
 	position: fixed;
 	width: 100%;
 	top: 0;
-	padding: 1.5em 0;
+	padding: 1em 0;
 	background-color: #1f4837a1;
 	text-align: center;
 	z-index: 10;
@@ -75,7 +75,7 @@ body {
 	height: 0.25em;
 	margin: -0.5em auto;
 	border: 0;
-	background-color: #ffffff;
+/* 	background-color: #ffffff;*/
 }
 
 /* Container */
@@ -145,8 +145,8 @@ body {
 #main .title hr {
 	border: 0;
 	height: 0.25em;
-	background-color: #ffffff;
-	width: 75%;
+	background-color: #406b49;
+	width: 95%;
 	margin: -0.5em auto;
 }
 
@@ -195,12 +195,12 @@ body {
 
 
 a:link {
-	color: #6b8778;
+	color: #506b4b;
 	background-color: transparent;
   }
 
 a:visited {
-	color: #6b8778;
+	color: #506b4b;
 	background-color: transparent;
 	text-decoration: none;
   }
