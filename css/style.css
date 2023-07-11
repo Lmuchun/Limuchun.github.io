@@ -193,9 +193,11 @@ body {
 	color: #406b49;
 }
 
-a {
-	text-decoration: none;
-}
+
+a:link {
+	color: #6b8778;
+	background-color: transparent;
+  }
 
 a:visited {
 	color: #6b8778;
