@@ -19,9 +19,9 @@
 html,
 body {
 	height: 100%;
-	background-color: #cf2e56;
+	background-color: #eff6eb;
 	font-family: 'Teko', sans-serif;
-	color: #5521b5;
+	color: #000000;
 }
 
 /* Menu */
@@ -43,8 +43,8 @@ body {
 	width: 100%;
 	top: 0;
 	padding: 1.5em 0;
-	background-color: #231f20;
-	text-align: right;
+	background-color: #146c46;
+	text-align: left;
 	z-index: 10;
 }
 
@@ -81,7 +81,7 @@ body {
 /* Container */
 
 #container {
-	max-width: 75em;
+	max-width: 77em;
 	height: calc(100% - 6em);
 	margin: 6em auto;
 }
@@ -89,7 +89,7 @@ body {
 /* Profile */
 
 #profile {
-	width: 30%;
+	width: 20%;
 	height: 100%;
 	float: left;
 	text-align: center;
@@ -124,7 +124,7 @@ body {
 /* Main */
 
 #main {
-	width: 50%;
+	width: 65%;
 	float: right;
 	margin-bottom: 3em;
 }
@@ -152,7 +152,7 @@ body {
 }
 
 #main .content p {
-	font-size: 1.8em;
+	font-size: 1.6em;
 }
 
 #main .content dt {
@@ -186,7 +186,7 @@ body {
 
 .light {
 	font-weight: 300;
-	color: #b1baba;
+	color: #406b49;
 }
 
 /* Footer */
