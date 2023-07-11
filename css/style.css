@@ -198,6 +198,16 @@ body {
 
 /* Icons */
 
+.round_icon{
+	width: 34px;
+	height: 34px;
+	display: flex;
+	border-radius: 50%;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+  }
+  
 .social:before {
 	vertical-align: middle;
 	display: inline-block;
