@@ -19,7 +19,7 @@
 html,
 body {
 	height: 100%;
-	background-color: #fff;
+	background-color: #f6f4eb;
 	font-family: 'Teko', sans-serif;
 	color: #000000;
 }
@@ -40,11 +40,10 @@ body {
 
 #menu {
 	position: fixed;
-	width: 90%;
+	width: 100%;
 	top: 0;
 	padding: 1em 0;
-	margin-left: 5%;
-	background-color: #fff;
+	background-color: #1f4837a1;
 	text-align: center;
 	z-index: 10;
 }
@@ -54,7 +53,6 @@ body {
 	margin-right: 4em;
 	text-align: center;
 	font-weight: 500;
-	float: right;
 }
 
 #menu ul:first-of-type {
@@ -69,7 +67,7 @@ body {
 	display: inline-block;
 	text-decoration: none;
 	font-size: 2.5em;
-	color: #000;
+	color: #ffffff;
 }
 
 #menu ul li hr {
